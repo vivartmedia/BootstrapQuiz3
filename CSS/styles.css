@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: slategray;
+}
+.p1{
+    font-family: 'Poppins', sans-serif;
+    margin: 40px;
+    font-weight: bold;
+
+}
+
+.container1{
+    margin-bottom: 100px;
+}
